@@ -1,5 +1,5 @@
 package src;
-
+// so para ter o commit do dia rs
 public class DeleteDuplicates {
     public ListNode deleteDuplicates(ListNode head) {
         ListNode dummy = new ListNode(0);
